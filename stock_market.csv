@@ -1,0 +1,26 @@
+Name,Sector,Price (Intraday),Change,% Change,Volume,Avg Vol (3 month),Market Cap (xB),PE Ratio (TTM)
+Apple Inc.,Technology,134.18,5.14,3.98%,152.47M,158.992M,2295,40.71
+NIO Limited,Consumer Cyclical,20.12,1.09,5.73%,136.286M,136.527M,24.6,N/A
+General Electric Co.,Industrials,6.19,-0.15,-2.37%,92.173M,86.184M,54.18,N/A
+"Tesla, Inc.",Consumer Cyclical,475.05,-23.27,-4.67%,90.119M,72.775M,442.66,"1,230.70"
+American Airlines,Industrials,13.1,0.05,0.38%,72.988M,95.865M,6.66,N/A
+Itaú Unibanco Holding S.A.,Financial Services,4.47,0.2128,5.00%,64.957M,29.837M,43.98,6.98
+Adv. Micro Devices,Technology,92.18,1.36,1.50%,55.544M,60.901M,108.23,179.34
+"Zoom Video, Inc.",Communication Services,457.69,132.59,40.78%,53.347M,8.933M,129.12,"2,708.22"
+Nokia Corporation,Technology,4.73,-0.17,-3.47%,49.04M,32.429M,26.33,N/A
+Bank of America,Financial Services,25.71,-0.03,-0.12%,43.208M,66.702M,222.75,12.37
+Ford Motor Co.,Consumer Cyclical,6.83,0.01,0.15%,47.585M,75.671M,27.17,N/A
+AT&T Inc.,Communication Services,29.47,-0.34,-1.14%,45.866M,34.126M,209.97,17.97
+Walmart Inc.,Consumer Defensive,147.59,8.74,6.29%,35M,9.435M,417.97,23.55
+Pfizer Inc.,Healthcare,36.88,-0.91,-2.41%,33.154M,30.733M,204.94,14.6
+Workhorse Group,Consumer Cyclical,20.15,2.04,11.26%,33.116M,26.173M,2.12,N/A
+Wells Fargo & Co.,Financial Services,24.05,-0.1,-0.41%,30.52M,46.024M,99.09,25.92
+Plug Power Inc.,Industrials,14.13,1.15,8.86%,29.912M,27.918M,5.68,N/A
+United Airlines.,Industrials,36.01,0.01,0.03%,29.595M,56.48M,10.48,N/A
+"Rocket Co., Inc.",Financial Services,30.71,2.71,9.68%,29.573M,32.852M,60.92,N/A
+Ambev S.A.,Consumer Defensive,2.35,0.1,4.44%,28.469M,33.498M,35.35,13.35
+Carnival Co. & Plc,Consumer Cyclical,16.51,0.03,0.18%,25.899M,42.747M,14.48,N/A
+"Slack Tech, Inc.",Technology,34.3,1.46,4.45%,25.967M,18.925M,19.34,N/A
+Microsoft Co.,Technology,227.27,1.74,0.77%,25.791M,34.274M,1720,39.46
+"Macy's, Inc.",Consumer Cyclical,7.01,0.04,0.57%,25.419M,35.67M,2.18,N/A
+Intel Corp.,Technology,50.79,-0.16,-0.31%,28.585M,31.486M,216.01,9.33
